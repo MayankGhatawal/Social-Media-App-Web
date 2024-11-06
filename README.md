@@ -1,6 +1,5 @@
 # Snapgram
 
-
 Welcome to Snapgram, a social media platform built with the MERN stack (MongoDB, Express, React, Node.js) and TypeScript. Snapgram allows users to share photos and interact with others through comments and likes, providing a seamless social experience.
 
 ## Table of Contents
